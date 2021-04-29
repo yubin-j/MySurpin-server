@@ -50,4 +50,4 @@ IM 26기 4명이 모인 👩‍💻👨‍💻👨‍💻👨‍💻 be-Dev 입�
 
 ## For More Details
 
-<a href="https://github.com/codestates/MySurpin-client/wiki">Check out Our Wiki page 🙏</a>
+<a href="https://github.com/yubin-j/MySurpin-server.wiki.git">Check out Our Wiki page 🙏</a>
